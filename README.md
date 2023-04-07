@@ -40,8 +40,11 @@
 ### Key Features <a name="key-features"></a>
 
 <!-- > Describe between 1-3 key features of the application. -->
+> The following enumerable methods are implemented :
 
-- **Decode Morse messages**
+- **all?**
+- **any?**
+- **filter?**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +80,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/AyomipoMajek/decode-morse-code.git
+  git clone https://github.com/AyomipoMajek/enumerable.git
 ```
 
 ### Install
@@ -87,12 +90,12 @@ To install ruby go to : [Install Ruby](https://rubyinstaller.org/) and select yo
 
 ### Usage
 
-To run the project, open your project in your terminal  and type ruby morse.rb .
+To run the project, open your project in your terminal  and type ruby my_list.rb .
 
 Example command:
 
 ```sh
-  ruby morse.rb
+  ruby my_list.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,7 +123,7 @@ Example command:
 
 <!-- > Describe 1 - 3 features you will add to the project. -->
 
-- [ ] **Store the decoded message**
+- [ ] **find_all**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +133,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AyomipoMajek/decode-morse-code/issues).
+Feel free to check the [issues page](https://github.com/AyomipoMajek/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
