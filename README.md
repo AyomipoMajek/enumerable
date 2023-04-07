@@ -90,12 +90,12 @@ To install ruby go to : [Install Ruby](https://rubyinstaller.org/) and select yo
 
 ### Usage
 
-To run the project, open your project in your terminal  and type ruby my_list.rb .
+To run the project, open your project in your terminal  and type ruby test.rb .
 
 Example command:
 
 ```sh
-  ruby my_list.rb
+  ruby test.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
